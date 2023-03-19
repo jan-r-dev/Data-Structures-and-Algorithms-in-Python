@@ -1,3 +1,3 @@
- Expanding my knowledge of computer science with algorithm & data structure practice.
+Expanding my knowledge of computer science with algorithm & data structure practice.
 
-Jupyter notebooks are generally used here to make the examples more independent and practical.
+Coded either in Python fiels or Jupyter notebooks, depending on what's more practical in terms of the examples that are being explored.
