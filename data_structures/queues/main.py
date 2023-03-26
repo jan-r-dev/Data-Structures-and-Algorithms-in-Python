@@ -12,7 +12,7 @@ class Queue():
         self.items = []
 
     def enqueue(self, item: Any):
-        self.items.insert(0, item)
+        self.items.append(item)
 
     def dequeue(self) -> Any:
         return self.items.pop(0)
